@@ -10,9 +10,8 @@ Unified build for Xiaomi Redmi 8 / 8A / 8A Dual / 7A (`mi439`).
 ---
 
 ### Downloads
-* **OrangeFox Zip (Kernel 4.19 - Recommended):** [Download Zip](https://github.com/atsauban/OrangeFox-mi439/releases/download/R12.0_1_A12-Unofficial/OrangeFox-R12.0_1_A12-Unofficial-mi439-4.19.zip)
-* **Fastboot Image (Kernel 4.19):** [Download Img](https://github.com/atsauban/OrangeFox-mi439/releases/download/R12.0_1_A12-Unofficial/recovery-4.19.img)
-* **Legacy Kernel 4.9:** [Zip](https://github.com/atsauban/OrangeFox-mi439/releases/download/R12.0_1_A12-Unofficial/OrangeFox-R12.0_1_A12-Unofficial-mi439.zip) | [Img](https://github.com/atsauban/OrangeFox-mi439/releases/download/R12.0_1_A12-Unofficial/recovery.img)
+* **OrangeFox Zip:** [Download Zip](https://github.com/atsauban/OrangeFox-mi439/releases/download/R12.0_1_A12-Unofficial/OrangeFox-R12.0_1_A12-Unofficial-mi439-4.19.zip)
+* **Fastboot Image:** [Download Img](https://github.com/atsauban/OrangeFox-mi439/releases/download/R12.0_1_A12-Unofficial/recovery-4.19.img)
 
 ---
 
